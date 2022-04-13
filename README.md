@@ -48,3 +48,32 @@ Average case
 2 - 3,5,7,8,2,9,4,15,6
 3 - 3,5,7,8,2,9,4,15,6
 4 - 2,3,5,7,8,9,4,15,6
+
+----------------------------------------------------------------------------------------------------------------
+
+# Question
+[16,21,11,8,12,22] -> Merge Sort - Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+Big-O gösterimini yazınız.
+
+
+[16,21,11]  [8,12,22] --> İlk aşamada diziyi iki parçaya ayırarak işleme başlıyor.
+[11] [16,21] - [8] [12,22] --> Sonraki aşamada ise parçaları da kendi içinde parçalara ayırarak sıralama yapıyor.
+[11] [16] [21]  [8] [12] [22]
+[11,16,21] - [8,12,22]
+[8,11,12,16,21,22]
+
+O(nlogn)
+
+----------------------------------------------------------------------------------------------------------------
+# Question
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+Root 7 dir. Sağında 8, solunda ise 5 bulunur
+
+                       7
+                5            8     
+            3        6            9
+        1       4
+    0       2

@@ -1,2 +1,3 @@
-# Patika-Odev-ve-Alistirmalari
+# Patika Ödev ve Alıştırmaları
+
 Ödev ve alıştırmaların tutulduğu repository

@@ -1,8 +1,4 @@
-# Insertion Sort Projesi
-
-
-# Question 1
-
+Question 1
 [22,27,16,2,18,6] -> Insertion Sort
 
 22 - 27, 16, 2, 18, 6 
@@ -14,15 +10,13 @@
 5 - 2, 6, 16, 18, 22, 27  --> Son aşamada ise sıralanmış hali.
 
 
-# Question 2
-
+Question 2
 Big-O gösterimini yazınız.
 
 O(n^2)
 
 
-# Question 3
-
+Question 3
 Time Complexity: 
   Average case: Aradığımız sayının ortada olması,
   Worst case: Aradığımız sayının sonda olması,
@@ -34,8 +28,7 @@ Worst case -> En kötü durum olma, yani dizimizin büyükten küçüğe sıral�
 
 
 
-# Question 4
-
+Question 4
 Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 Average case

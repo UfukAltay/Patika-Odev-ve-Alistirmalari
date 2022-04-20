@@ -1,0 +1,16 @@
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\bin\Debug\net5.0\HackerRank_Challenge_Day0_HelloWorld.exe
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\bin\Debug\net5.0\HackerRank_Challenge_Day0_HelloWorld.deps.json
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\bin\Debug\net5.0\HackerRank_Challenge_Day0_HelloWorld.runtimeconfig.json
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\bin\Debug\net5.0\HackerRank_Challenge_Day0_HelloWorld.runtimeconfig.dev.json
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\bin\Debug\net5.0\HackerRank_Challenge_Day0_HelloWorld.dll
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\bin\Debug\net5.0\ref\HackerRank_Challenge_Day0_HelloWorld.dll
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\bin\Debug\net5.0\HackerRank_Challenge_Day0_HelloWorld.pdb
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\obj\Debug\net5.0\HackerRank_Challenge_Day0_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\obj\Debug\net5.0\HackerRank_Challenge_Day0_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\obj\Debug\net5.0\HackerRank_Challenge_Day0_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\obj\Debug\net5.0\HackerRank_Challenge_Day0_HelloWorld.AssemblyInfo.cs
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\obj\Debug\net5.0\HackerRank_Challenge_Day0_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\obj\Debug\net5.0\HackerRank_Challenge_Day0_HelloWorld.dll
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\obj\Debug\net5.0\ref\HackerRank_Challenge_Day0_HelloWorld.dll
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\obj\Debug\net5.0\HackerRank_Challenge_Day0_HelloWorld.pdb
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\HackerRank_Challenge_Day0_HelloWorld\obj\Debug\net5.0\HackerRank_Challenge_Day0_HelloWorld.genruntimeconfig.cache

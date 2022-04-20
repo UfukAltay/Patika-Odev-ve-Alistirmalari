@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ufuka\\Source\\Repos\\Patika-Odev-ve-Alistirmalari\\HackerRank_Challenge_Day0_HelloWorld\\HackerRank_Challenge_Day0_HelloWorld\\HackerRank_Challenge_Day0_HelloWorld.csproj",
-      "projectName": "HackerRank_Challenge_Day0_HelloWorld",
-      "projectPath": "C:\\Users\\ufuka\\Source\\Repos\\Patika-Odev-ve-Alistirmalari\\HackerRank_Challenge_Day0_HelloWorld\\HackerRank_Challenge_Day0_HelloWorld\\HackerRank_Challenge_Day0_HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\ufuka\\Source\\Repos\\Patika-Odev-ve-Alistirmalari\\HackerRank_Challenge_Day0_HelloWorld\\HackerRank_Challenge_Day0_HelloWorld\\Day0_HelloWorld.csproj",
+      "projectName": "Day0_HelloWorld",
+      "projectPath": "C:\\Users\\ufuka\\Source\\Repos\\Patika-Odev-ve-Alistirmalari\\HackerRank_Challenge_Day0_HelloWorld\\HackerRank_Challenge_Day0_HelloWorld\\Day0_HelloWorld.csproj",
       "packagesPath": "C:\\Users\\ufuka\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ufuka\\Source\\Repos\\Patika-Odev-ve-Alistirmalari\\HackerRank_Challenge_Day0_HelloWorld\\HackerRank_Challenge_Day0_HelloWorld\\obj\\",
       "projectStyle": "PackageReference",

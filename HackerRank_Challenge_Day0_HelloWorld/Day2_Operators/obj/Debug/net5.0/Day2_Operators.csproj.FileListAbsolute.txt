@@ -1,0 +1,16 @@
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\obj\Debug\net5.0\Day2_Operators.csproj.AssemblyReference.cache
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\obj\Debug\net5.0\Day2_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\obj\Debug\net5.0\Day2_Operators.AssemblyInfoInputs.cache
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\obj\Debug\net5.0\Day2_Operators.AssemblyInfo.cs
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\obj\Debug\net5.0\Day2_Operators.csproj.CoreCompileInputs.cache
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\bin\Debug\net5.0\Day2_Operators.exe
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\bin\Debug\net5.0\Day2_Operators.deps.json
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\bin\Debug\net5.0\Day2_Operators.runtimeconfig.json
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\bin\Debug\net5.0\Day2_Operators.runtimeconfig.dev.json
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\bin\Debug\net5.0\Day2_Operators.dll
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\bin\Debug\net5.0\ref\Day2_Operators.dll
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\bin\Debug\net5.0\Day2_Operators.pdb
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\obj\Debug\net5.0\Day2_Operators.dll
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\obj\Debug\net5.0\ref\Day2_Operators.dll
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\obj\Debug\net5.0\Day2_Operators.pdb
+C:\Users\ufuka\Source\Repos\Patika-Odev-ve-Alistirmalari\HackerRank_Challenge_Day0_HelloWorld\Day2_Operators\obj\Debug\net5.0\Day2_Operators.genruntimeconfig.cache

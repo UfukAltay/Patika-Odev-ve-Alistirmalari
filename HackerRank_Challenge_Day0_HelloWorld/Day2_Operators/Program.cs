@@ -28,7 +28,7 @@ class Result
     {
         tip_percent = Convert.ToInt32(meal_cost / 100 * tip_percent);
         tax_percent = Convert.ToInt32(tax_percent / 100 * 20);
-        meal_cost = meal_cost + tip_percent + tax_percent;
+        meal_cost += tip_percent + tax_percent;
                
 
         Console.WriteLine(meal_cost);
@@ -43,7 +43,7 @@ class Solution
         double meal_cost = Convert.ToDouble(Console.ReadLine().Trim());
 
         Console.WriteLine("Tip Percent Giriniz : ");
-        int tip_percent = Convert.ToInt32(Console.ReadLine().Trim(0.));
+        int tip_percent = Convert.ToInt32(Console.ReadLine().Trim());
 
         Console.WriteLine("Tax Percent Giriniz : ");
         int tax_percent = Convert.ToInt32(Console.ReadLine().Trim());
